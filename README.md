@@ -1,6 +1,6 @@
 # 🕰️ Watches World Project  
 
-**Watches World** is a web-based e-commerce platform designed for showcasing and selling various types of watches, including luxury, classic, sports, and smartwatches. The project aims to provide a smooth shopping experience with an elegant design and user-friendly interface.  
+**Watches World** is a web-based e-commerce platform designed for showcasing and selling various types of watches. The project aims to provide a smooth shopping experience with an elegant design and user-friendly interface.  
 
 ## ✨ Features  
 - 📌 **Simple and responsive design** – Works on all devices.  
